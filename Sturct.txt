@@ -1,0 +1,19 @@
+||==================================================||
+||                 Data Pemesanan                   ||
+||==================================================||
+|| Nama Pembeli            : DIDIK VINASTU
+|| Judul Film              : ADVANGARE AND GAME
+|| No Kursi                : 44
+|| Jenis Tiket             : VVIP
+|| Harga Tiket             : 150000
+|| Hari                    : 3
+|| Jam                     : 15.00 WIB
+|| Jumlah Tiket            : 2
+||                           
+|| Harga Total             : 300000
+||--------------------------------------------------||
+||                             Dilayani : Gaskur
+||==================================================||
+
+Masukkan Nominal Untuk bayar : 4761250
+Kembalian 	: 4461250
